@@ -1,0 +1,8 @@
+Bonjour/Bonsoir {nom},
+
+Ce message vous est envoyé pour vous stipuler que vous êtes obligatoirement prié de vous presenter à l'examen de la filigree de science
+Salle : salle principale
+Horaire : {horaire} 
+
+Cordialement 
+Le Secretariat 
